@@ -8,7 +8,7 @@
     "id": "did:web:samples.identifier.me:demo#key-0",
     "type": "Multikey",
     "controller": "did:web:samples.identifier.me:demo",
-    "publicKeyMultibase": "z6Mkf5rGMoatrSj1f4CyvuHBeXJELe9RPdzo2PKGNCKVtZxP"
+    "publicKeyMultibase": "z6MkkLcVpAnMhVBQMwRBDJaeXbvdrSep6EbgyZ2SQCe4JHZE"
   }],
   "authentication": [
     "did:web:samples.identifier.me:demo#key-0"
